@@ -63,5 +63,5 @@ export const movieList = [
     movieName: 'Vida de inseto',
     releaseYear: 1998,
     image: 'https://upload.wikimedia.org/wikipedia/en/c/cc/A_Bug%27s_Life.jpg',
-  }
-]
+  },
+];
