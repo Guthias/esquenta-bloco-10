@@ -47,6 +47,7 @@ li {
   margin-bottom: 20px;
   transition: 0.8s;
   color: white;
+  cursor: pointer;
 }
 
 img {
