@@ -1,4 +1,6 @@
-header, h1, h3 {
+header,
+h1,
+h3 {
   text-align: center;
 }
 ul {
@@ -14,7 +16,7 @@ li {
   border-radius: 20px;
   background-color: aqua;
   width: 300px;
-  border: 1px solid black;
+  border: 1px solid rgb(42, 65, 209);
   flex-direction: column;
   display: flex;
   text-align: center;
@@ -33,5 +35,5 @@ li:hover {
   transition: 0.9s;
   background-color: black;
   color: white;
-
+  width: 330px;
 }
